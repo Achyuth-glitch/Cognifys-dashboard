@@ -1,0 +1,21 @@
+# Core framework
+streamlit==1.39.0
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization libraries
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.23.0
+
+# Data utilities (optional, useful for future extensions)
+scikit-learn==1.5.2
+
+# For CSV and encoding compatibility
+chardet==5.2.0
+openpyxl==3.1.5
+
+# Deployment stability
+requests==2.32.3
